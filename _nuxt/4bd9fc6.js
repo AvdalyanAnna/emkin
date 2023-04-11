@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[188],{1952:function(n,t,o){"use strict";o.r(t);var e=o(13),component=Object(e.a)({},(function(){return(0,this._self._c)("confirm-form",{attrs:{reset:""}})}),[],!1,null,null,null);t.default=component.exports;installComponents(component,{ConfirmForm:o(1756).default})}}]);
