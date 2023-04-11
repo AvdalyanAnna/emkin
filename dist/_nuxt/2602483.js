@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[201],{1920:function(n,t,e){"use strict";e.r(t);var l={layout:"back"},o=e(13),component=Object(o.a)(l,(function(){var n=this._self._c;return n("main",{staticClass:"main"},[n("section-settings")],1)}),[],!1,null,null,null);t.default=component.exports;installComponents(component,{SectionSettings:e(1534).default})}}]);
